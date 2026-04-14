@@ -1,5 +1,3 @@
-Here’s your **README.md file** ready to upload to GitHub. Just copy this into a file named `README.md` in your project folder:
-
 ```markdown
 # Eminem Music Page 🎤
 
