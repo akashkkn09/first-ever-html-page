@@ -59,7 +59,3 @@ Date: *14/04/2026*
 ## 📜 License
 This project is for **learning purposes only** and not for commercial use.
 ```
-
-Now you can simply save this as `README.md` in your project folder, commit it, and push to GitHub.  
-
-Would you like me to also create a **short “Future Improvements” section** so your repo looks like it has a roadmap (e.g., adding CSS styling, JavaScript interactivity, or responsiveness)?
